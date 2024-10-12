@@ -1,0 +1,3 @@
+82.126.249.48
+
+le code à donner aux gens pour qu'ils accèdent au serveur
